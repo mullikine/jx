@@ -1,4 +1,4 @@
-package prow_test
+package prow
 
 import (
 	"github.com/jenkins-x/jx/pkg/prow"
